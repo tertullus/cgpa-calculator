@@ -1,2 +1,1 @@
 # cgpa-calculator
-# cgpa-calculator
