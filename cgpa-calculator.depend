@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1673142215 source:c:\users\chide\onedrive\desktop\cgpa-calculator\student.cpp
+	"Student.h"
+
+1673142194 c:\users\chide\onedrive\desktop\cgpa-calculator\student.h
+	<iostream>
+	<ios>
+	<limits>
+	<iomanip>
+	<string>
+
+1673142705 source:c:\users\chide\onedrive\desktop\cgpa-calculator\main.cpp
+	"Student.h"
+
